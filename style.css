@@ -1,0 +1,33 @@
+body {
+	background-image: url("bground.jpg");
+	/*background-size: cover;*/
+}
+
+h1 {
+	font-family: 'Fira Sans', sans-serif;
+	color: #FF8E5E;
+	text-align: center;
+	margin-top: 150px;
+}
+
+
+.btn-submit {
+	background-color: #5EFEBE;
+	border-color: #5EFEBE;
+	font-weight: 700;
+	color: #FF8E5E;
+	border-radius: 300px;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+button: {
+	transition: all 1s;
+	align-content: center;
+}
+
+button:hover {
+	background-color: #CECFC8;
+	transform: scale(1.2);
+
+}
